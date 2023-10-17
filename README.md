@@ -34,3 +34,12 @@
   <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
   <img src="https://img.shields.io/badge/WebRTC-E34F26?style=for-the-badge&logo=WebRTC&logoColor=white">
   <br>
+
+  
+</div>
+
+## 🌱 프로젝트 링크
+
+[웹 개발 프로젝트 / 취미 기반 소개팅플랫폼 - 취미로 만나자! 취밋](https://github.com/kim-dahun/Final-Project_Chwi_meet)
+
+[웹 개발 프로젝트 / 전통주 경매 쇼핑몰 - 알코홀릭](https://github.com/SevenChickenItwill/Auction-Alcohol)
