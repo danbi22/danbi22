@@ -1,16 +1,6 @@
 ### 기초를 중요시하는 백엔드 개발자 유다한입니다. 👋
 
 
-## 🌱 깃허브 현황
-
-<div display=flex>
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danbi22)
-
-
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danbi22&layout=compact)
-</div>
 
 ## 🌱 사용가능 기술 스택
 
